@@ -4,7 +4,7 @@ This repository is template for [pumpkin.py] module repositories.
 
 The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED",  "MAY", and "OPTIONAL" in this document are to be interpreted as described in [RFC 2119](https://tools.ietf.org/html/rfc2119).
 
-## __init__.py
+## \_\_init\_\_.py
 
 This file MUST be present in your repository.
 
@@ -46,5 +46,8 @@ This file is used by the bot to load the modules (cogs), so it has to include th
 
 You MUST include any files required for your modules to work here, or have them linked as URLs.
 
+---
+
+As pumpkin.py develops, this file will be updated with Github Actions or database examples.
 
 [pumpkin.py]: https://github.com/Pumpkin-py/pumpkin.py
